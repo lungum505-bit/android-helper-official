@@ -1,0 +1,8 @@
+# Ignore local firmware, zips, and images
+*.zip
+*.img
+*.tar
+*.tar.md5
+*.tgz
+firmware/
+downloads/
